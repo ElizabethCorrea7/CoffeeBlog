@@ -257,3 +257,8 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+
+.entrada-imagen {
+    max-height: 70rem;
+    margin-bottom: 3rem;
+}
